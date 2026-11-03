@@ -1,0 +1,16 @@
+# Maven 构建输出
+target/
+
+# IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# 日志与临时文件
+*.log
+logs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
